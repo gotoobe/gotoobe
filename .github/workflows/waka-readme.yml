@@ -1,0 +1,25 @@
+name: Waka Readme
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '10 13/20 * * *'
+
+jobs:
+  update-wakatime-readme:
+    name: Update wakatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MASKED_TIME: true
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: last_6_months
+          LANG_COUNT: 6
+          IGNORED_LANGUAGES: YAML YML JSON go.mod
+          CODE_LANG: golang
