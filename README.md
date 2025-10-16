@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```golang
+```rust
 From: 16 April 2025 - To: 15 October 2025
 
 Total Time: 436 hrs 28 mins
