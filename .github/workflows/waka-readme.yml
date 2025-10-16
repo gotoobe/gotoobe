@@ -22,4 +22,4 @@ jobs:
           TIME_RANGE: last_6_months
           LANG_COUNT: 6
           IGNORED_LANGUAGES: YAML YML JSON go.mod
-          CODE_LANG: golang
+          CODE_LANG: rust
