@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2025 - To: 17 November 2025
+From: 20 May 2025 - To: 18 November 2025
 
-Total Time: 368 hrs 6 mins
+Total Time: 371 hrs
 
-TypeScript                 151 hrs 33 mins >>>>>>>>>>---------------   41.17 %
-Vue.js                     82 hrs 30 mins  >>>>>>-------------------   22.42 %
-JavaScript                 50 hrs 44 mins  >>>----------------------   13.78 %
-CSS                        13 hrs 22 mins  >------------------------   03.63 %
-Astro                      9 hrs 41 mins   >------------------------   02.64 %
+TypeScript                 156 hrs 22 mins >>>>>>>>>>>--------------   42.15 %
+Vue.js                     81 hrs 12 mins  >>>>>--------------------   21.89 %
+JavaScript                 50 hrs 36 mins  >>>----------------------   13.64 %
+CSS                        13 hrs 39 mins  >------------------------   03.68 %
+Astro                      9 hrs 41 mins   >------------------------   02.61 %
 ```
 
 <!--END_SECTION:waka-->
