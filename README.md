@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 November 2025 - To: 29 May 2026
+From: 01 December 2025 - To: 01 June 2026
 
-Total Time: 89 hrs 14 mins
+Total Time: 87 hrs 35 mins
 
-Kotlin                 39 hrs 55 mins        >>>>>>>>>>>--------------   44.74 %
-Markdown               10 hrs 38 mins        >>>----------------------   11.92 %
-XML                    7 hrs 46 mins         >>-----------------------   08.71 %
-JavaScript             6 hrs 6 mins          >>-----------------------   06.84 %
-TypeScript             5 hrs 55 mins         >>-----------------------   06.63 %
-TOML                   2 hrs 49 mins         >------------------------   03.17 %
+Kotlin                 39 hrs 55 mins        >>>>>>>>>>>--------------   45.58 %
+Markdown               9 hrs 2 mins          >>>----------------------   10.33 %
+XML                    7 hrs 46 mins         >>-----------------------   08.87 %
+JavaScript             6 hrs 6 mins          >>-----------------------   06.97 %
+TypeScript             5 hrs 54 mins         >>-----------------------   06.74 %
+TOML                   2 hrs 49 mins         >------------------------   03.23 %
 ```
 
 <!--END_SECTION:waka-->
