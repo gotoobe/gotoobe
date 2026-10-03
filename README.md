@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 April 2026 - To: 01 October 2026
+From: 03 April 2026 - To: 02 October 2026
 
-Total Time: 300 hrs 36 mins
+Total Time: 297 hrs 31 mins
 
-TypeScript        190 hrs 54 mins       >>>>>>>>>>>>>>>>---------   63.51 %
-Markdown          25 hrs 45 mins        >>-----------------------   08.57 %
-TOML              6 hrs 28 mins         >------------------------   02.15 %
-Bash              5 hrs 33 mins         -------------------------   01.85 %
-Docker            4 hrs 44 mins         -------------------------   01.58 %
+TypeScript        190 hrs 53 mins       >>>>>>>>>>>>>>>>---------   64.16 %
+Markdown          25 hrs 6 mins         >>-----------------------   08.44 %
+TOML              6 hrs 22 mins         >------------------------   02.14 %
+Bash              5 hrs 33 mins         -------------------------   01.87 %
+Docker            4 hrs 44 mins         -------------------------   01.59 %
 ```
 
 <!--END_SECTION:waka-->
